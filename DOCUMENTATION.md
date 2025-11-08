@@ -676,11 +676,6 @@ For issues or questions:
 
 ---
 
-## License
-
-This project is for educational/demonstration purposes.
-
----
 
 ## Credits
 
@@ -692,5 +687,3 @@ This project is for educational/demonstration purposes.
 
 ---
 
-**Last Updated**: 2024
-**Version**: 1.0.0
